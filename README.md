@@ -1,0 +1,2 @@
+# FLVStreamAnalysis
+对rmtp推流的视频拉取的flv视频进行分段读取分解等解析操作
